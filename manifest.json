@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "KoboFormBuilder",
+  "version": "1.0.5",
+  "description": "A visual XLSForm builder for KoboToolbox, powered by AI. Design, validate, and deploy complex data collection forms with ease. Import from existing documents and leverage an AI assistant to accelerate your workflow.",
+  "icons": {
+    "16": "assets/icon.svg",
+    "48": "assets/icon.svg",
+    "128": "assets/icon.svg"
+  },
+  "action": {
+    "default_title": "KoboFormBuilder"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Correction KoboFormBuilder v37",
+  "description": "A visual XLSForm builder for KoboToolbox, powered by AI. Design, validate, and deploy complex data collection forms with ease. Import from existing documents and leverage an AI assistant to accelerate your workflow.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
